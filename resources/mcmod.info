@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "Be wary, for the night is full of creepers...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DJCRU"],
+  "credits": "#GetRekd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
